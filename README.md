@@ -1,16 +1,14 @@
-## Hi there 👋
+# Backend Engineer (Java / Kotlin)
 
-<!--
-**Alexandr-Medvedev/Alexandr-Medvedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on building scalable and maintainable backend systems.
 
-Here are some ideas to get you started:
+## 🛠 Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java • Kotlin • Spring Boot • PostgreSQL • ClickHouse • Redis • Kafka • Docker • Kubernetes
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=<your_username>&show_icons=true&hide_title=true)  
+![Profile views](https://komarev.com/ghpvc/?username=<your_username>&color=blue)
