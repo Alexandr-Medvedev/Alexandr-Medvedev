@@ -10,5 +10,5 @@ Java • Kotlin • Spring Boot • PostgreSQL • ClickHouse • Redis • Kafk
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=<your_username>&show_icons=true&hide_title=true)  
-![Profile views](https://komarev.com/ghpvc/?username=<your_username>&color=blue)
+![Stats](https://github-readme-stats.vercel.app/api?username=Alexandr-Medvedev&show_icons=true&hide_title=true)  
+![Profile views](https://komarev.com/ghpvc/?username=Alexandr-Medvedev&color=blue)
